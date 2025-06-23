@@ -1,73 +1,71 @@
-# Welcome to your Lovable project
+# Halal Deal Checker
 
-## Project info
+A modern web application to help users find and verify halal deals and discounts from various retailers and restaurants.
 
-**URL**: https://lovable.dev/projects/ba350db8-dd50-428f-af98-52da5d9524b3
+## Features
 
-## How can I edit this code?
+- Browse and search for halal deals in your area
+- Filter deals by category, distance, and halal certification
+- User ratings and reviews for halal establishments
+- Save favorite deals and get notifications for new offers
+- Mobile-responsive design for on-the-go access
 
-There are several ways of editing your application.
+## Technologies Used
 
-**Use Lovable**
+- ⚡ Vite - Next Generation Frontend Tooling
+- ⚛️ React - A JavaScript library for building user interfaces
+- 🎨 shadcn/ui - Beautifully designed components
+- 🎨 Tailwind CSS - A utility-first CSS framework
+- 🔄 TypeScript - Type-safe JavaScript
+- 📱 Responsive Design - Works on all devices
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/ba350db8-dd50-428f-af98-52da5d9524b3) and start prompting.
+## Getting Started
 
-Changes made via Lovable will be committed automatically to this repo.
+### Prerequisites
 
-**Use your preferred IDE**
+- Node.js (v16 or later)
+- npm or yarn
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Installation
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/halal-deal-checker.git
+   cd halal-deal-checker
+   ```
 
-Follow these steps:
+2. Install dependencies:
+   ```sh
+   npm install
+   # or
+   yarn
+   ```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+3. Start the development server:
+   ```sh
+   npm run dev
+   # or
+   yarn dev
+   ```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+4. Open [http://localhost:5173](http://localhost:5173) in your browser to see the app running.
 
-# Step 3: Install the necessary dependencies.
-npm i
+## Contributing
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-**Edit a file directly in GitHub**
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## License
 
-**Use GitHub Codespaces**
+Distributed under the MIT License. See `LICENSE` for more information.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Contact
 
-## What technologies are used for this project?
+Your Name - [@yourtwitter](https://twitter.com/yourusername) - email@example.com
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/ba350db8-dd50-428f-af98-52da5d9524b3) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Project Link: [https://github.com/your-username/halal-deal-checker](https://github.com/your-username/halal-deal-checker)
