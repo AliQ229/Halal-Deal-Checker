@@ -1,71 +1,54 @@
-# Halal Deal Checker
+# Property Investment Calculator
 
-A modern web application to help users find and verify halal deals and discounts from various retailers and restaurants.
+A modern web application designed to help real estate investors analyze and evaluate property investment deals with a focus on halal financing options.
 
 ## Features
 
-- Browse and search for halal deals in your area
-- Filter deals by category, distance, and halal certification
-- User ratings and reviews for halal establishments
-- Save favorite deals and get notifications for new offers
+- Calculate key investment metrics for property deals
+- Compare different financing methods including halal options
+- Detailed breakdown of cash flow, ROI, and other financial metrics
+- Exportable reports for easy sharing and analysis
 - Mobile-responsive design for on-the-go access
+- Dark mode support for comfortable viewing in any lighting
+
+## Key Metrics Calculated
+
+- Monthly and annual cash flow
+- Cash on cash return (CoC)
+- Return on investment (ROI)
+- Capitalization rate (Cap Rate)
+- Gross rent multiplier (GRM)
+- Debt service coverage ratio (DSCR)
 
 ## Technologies Used
 
-- ⚡ Vite - Next Generation Frontend Tooling
-- ⚛️ React - A JavaScript library for building user interfaces
-- 🎨 shadcn/ui - Beautifully designed components
-- 🎨 Tailwind CSS - A utility-first CSS framework
-- 🔄 TypeScript - Type-safe JavaScript
-- 📱 Responsive Design - Works on all devices
+- Vite v5 - Next Generation Frontend Tooling
+- React 18 - A JavaScript library for building user interfaces
+- shadcn/ui - Beautifully designed components built with Radix UI
+- Tailwind CSS v3 - A utility-first CSS framework with dark mode support
+- TypeScript v5 - Type-safe JavaScript
+- Recharts - For data visualization
+- React Router v6 - For client-side routing
+- React Query v5 - For server state management
+- React Hook Form - For form handling and validation
+- Radix UI Primitives - Unstyled, accessible UI components
+- ESLint & Prettier - For code linting and formatting
+- Vitest - For unit testing
 
-## Getting Started
-
-### Prerequisites
+## Prerequisites
 
 - Node.js (v16 or later)
 - npm or yarn
 
-### Installation
+## Getting Started
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/halal-deal-checker.git
-   cd halal-deal-checker
-   ```
-
-2. Install dependencies:
-   ```sh
-   npm install
-   # or
-   yarn
-   ```
-
-3. Start the development server:
-   ```sh
-   npm run dev
-   # or
-   yarn dev
-   ```
-
-4. Open [http://localhost:5173](http://localhost:5173) in your browser to see the app running.
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
+1. Clone the repository
+2. Install dependencies with `npm install` or `yarn`
+3. Start the development server with `npm run dev`
+4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourusername) - email@example.com
+Ali Qayyum - aliq2005@outlook.com
 
-Project Link: [https://github.com/your-username/halal-deal-checker](https://github.com/your-username/halal-deal-checker)
+Project Link: [https://github.com/your-username/property-investment-calculator](https://github.com/your-username/property-investment-calculator)
